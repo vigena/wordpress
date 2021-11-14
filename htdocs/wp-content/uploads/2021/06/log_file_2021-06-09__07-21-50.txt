@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: دموی اصلی were successfully downloaded!
+Initial max execution time = 100
+Files info:
+Site URL = https://demo.hamyarwp.com/royal-shop
+Data file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/royal-shop/wp-content/themes/royal-shop-child/hwp_inc/import_files/content.xml
+Widget file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/royal-shop/wp-content/themes/royal-shop-child/hwp_inc/import_files/widget.wie
+Customizer file = /home/s1wpde/domains/demo.hamyarwp.com/public_html/royal-shop/wp-content/themes/royal-shop-child/hwp_inc/import_files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+سایدبار اصلی : 
+
+محصولات - محصولات پرفروش - Imported
+ابر برچسب - تگ محصولات - Imported
+گالری - گالری - Imported
+Royal Shop : Testimonial Widget - No Title - Imported
+
+سایدبار ثانویه : 
+
+Royal Shop : About Us widget - درباره ما - Imported
+Royal Shop : Multi Product slider widget - محصولات ویژه - Imported
+تصویر - اپل واچ - Imported
+Royal Shop : Post Slide widget - مطالب وبلاگ - Imported
+
+دومین ابزارک در بالای فوتر : 
+
+تصویر - No Title - Imported
+
+سومین ابزارک در زیر فوتر : 
+
+محصولات - Products - Imported
+
+ناحیه ابزارک فوتر1 : 
+
+متن - فروشگاه رویال - Imported
+متن - تماس با ما از طریق - Imported
+
+ناحیه ابزارک فوتر2 : 
+
+متن - درباره ما - Imported
+متن - دسترسی سریع - Imported
+
+ناحیه ابزارک فوتر3 : 
+
+محصولات - محصولات حراجی - Imported
+
+ناحیه ابزارک فوتر4 : 
+
+متن - تماس با ما - Imported
+متن - شعبه های دیگر - Imported
+
+سایدبار ووکامرس : 
+
+فیلتر محصولات براساس قیمت - فیلتر بر اساس قیمت - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,21 @@
+ul.woosc-fields, ul.woosc-attributes {
+    position: relative;
+}
+
+li.woosc-fields-item .label, li.woosc-attributes-item .label {
+    cursor: move;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#woosc_search_cats {
+    width: 25em;
+    height: 120px;
+}
+
+.active[data-slug="woo-smart-compare"] .premium a {
+    color: #c9356e;
+}

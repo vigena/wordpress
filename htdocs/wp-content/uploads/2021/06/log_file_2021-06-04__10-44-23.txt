@@ -1,0 +1,79 @@
+
+---Upload files---
+Redux file was not uploaded. Error: آزمایش بارگذاری پرونده با شکست روبه‌رو شد
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://navid.zarinpargar.ir
+Data file = /home/zarinpar/navid.zarinpargar.ir/wp-content/uploads/2021/06/spaciousinterior.WordPress.2021-06-04.xml
+Widget file = /home/zarinpar/navid.zarinpargar.ir/wp-content/uploads/2021/06/demo.hamyarwp.com-shop-zita-widgets.wie
+Customizer file = /home/zarinpar/navid.zarinpargar.ir/wp-content/uploads/2021/06/royal-shop-child-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+جستجو - No Title - Widget already exists
+نوشته‌های تازه - No Title - Widget already exists
+آخرین دیدگاه‌ها - No Title - Widget already exists
+محصولات - TOP RATED PRODUCTS - Imported
+ابر برچسب - TAG CLOUD - Imported
+گالری - GALLERY - Imported
+Royal Shop : Testimonial Widget - No Title - Imported
+
+Secondary Sidebar : 
+
+بایگانی‌ها - No Title - Widget already exists
+دسته‌ها - No Title - Widget already exists
+اطلاعات - No Title - Widget already exists
+Royal Shop : About Us widget - ABOUT ME - Imported
+Royal Shop : Multi Product slider widget - FEATURED PRODUCTS - Imported
+تصویر - AD WIDGET - Imported
+Royal Shop : Post Slide widget - FROM THE BLOG - Imported
+
+Footer Top Second Widget : 
+
+تصویر - No Title - Imported
+
+Footer Below Third Widget : 
+
+محصولات - Products - Imported
+
+Footer Widget Area 1 : 
+
+متن - ROYAL SHOP - Imported
+متن - CONNECT WITH US - Imported
+
+Footer Widget Area 2 : 
+
+متن - MORE ABOUT US - Imported
+متن - LINKS - Imported
+
+Footer Widget Area 3 : 
+
+محصولات - ON SALE - Imported
+
+Footer Widget Area 4 : 
+
+متن - STORE ADDRESS - Imported
+متن - WORLD WIDE - Imported
+
+WooCommerce Sidebar : 
+
+فیلتر محصولات براساس قیمت - FILTER BY PRICE - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

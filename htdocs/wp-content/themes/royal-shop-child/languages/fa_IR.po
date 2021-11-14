@@ -1,0 +1,1521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-06 12:32+0430\n"
+"PO-Revision-Date: 2021-06-09 12:46+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: royal-shop\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_n_noop:1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23
+msgid "404"
+msgstr "404"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "متاسفم! صفحه مورد نظر شما یافت نشد."
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می رسد در این مکان چیزی پیدا نشده است. ممکن است جستجو کنید؟"
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "دیدگاه برای &ldquo;%1$s&rdquo;"
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده است."
+
+#: customizer/background/class-royal-shop-background-image-control.php:236
+#: customizer/background/class-royal-shop-background-image-control.php:241
+msgid "Select Image"
+msgstr "تصویر را انتخاب کنید"
+
+#: customizer/background/class-royal-shop-background-image-control.php:237
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+#: customizer/background/class-royal-shop-background-image-control.php:238
+msgid "Remove"
+msgstr "حذف"
+
+#: customizer/background/class-royal-shop-background-image-control.php:239
+#: customizer/background/class-royal-shop-background-image-control.php:283
+msgid "Default"
+msgstr "پیش‌ فرض"
+
+#: customizer/background/class-royal-shop-background-image-control.php:240
+msgid "No image selected"
+msgstr "تصویری انتخاب نشده"
+
+#: customizer/background/class-royal-shop-background-image-control.php:242
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: customizer/background/class-royal-shop-background-image-control.php:257
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: customizer/background/class-royal-shop-background-image-control.php:258
+msgid "Background Size"
+msgstr "سایز پس زمینه"
+
+#: customizer/background/class-royal-shop-background-image-control.php:259
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: customizer/background/class-royal-shop-background-image-control.php:260
+msgid "Background Attachment"
+msgstr "پیوست پس زمینه"
+
+#: customizer/background/class-royal-shop-background-image-control.php:277
+msgid "No Repeat"
+msgstr "بدون تکرار"
+
+#: customizer/background/class-royal-shop-background-image-control.php:278
+msgid "Tile"
+msgstr "تیلی"
+
+#: customizer/background/class-royal-shop-background-image-control.php:279
+msgid "Tile Horizontally"
+msgstr "تیلی به صورت افقی"
+
+#: customizer/background/class-royal-shop-background-image-control.php:280
+msgid "Tile Vertically"
+msgstr "تیلی به صورت عمودی"
+
+#: customizer/background/class-royal-shop-background-image-control.php:284
+msgid "Cover"
+msgstr "کاور"
+
+#: customizer/background/class-royal-shop-background-image-control.php:285
+msgid "Contain"
+msgstr "محتوا"
+
+#: customizer/background/class-royal-shop-background-image-control.php:288
+msgid "Left Top"
+msgstr "بالا چپ"
+
+#: customizer/background/class-royal-shop-background-image-control.php:289
+msgid "Left Center"
+msgstr "مرکز چپ"
+
+#: customizer/background/class-royal-shop-background-image-control.php:290
+msgid "Left Bottom"
+msgstr "پایین چپ"
+
+#: customizer/background/class-royal-shop-background-image-control.php:291
+msgid "Right Top"
+msgstr "بالا راست"
+
+#: customizer/background/class-royal-shop-background-image-control.php:292
+msgid "Right Center"
+msgstr "مرکز راست"
+
+#: customizer/background/class-royal-shop-background-image-control.php:293
+msgid "Right Bottom"
+msgstr "پایین راست"
+
+#: customizer/background/class-royal-shop-background-image-control.php:294
+msgid "Center Top"
+msgstr "مرکز بالا"
+
+#: customizer/background/class-royal-shop-background-image-control.php:295
+msgid "Center Center"
+msgstr "مرکز مرکز"
+
+#: customizer/background/class-royal-shop-background-image-control.php:296
+msgid "Center Bottom"
+msgstr "مرکز پایین"
+
+#: customizer/background/class-royal-shop-background-image-control.php:299
+msgid "Fixed"
+msgstr "ثابت"
+
+#: customizer/background/class-royal-shop-background-image-control.php:300
+msgid "Scroll"
+msgstr "اسکرول"
+
+#: customizer/custom-customizer.php:489
+msgid "Doc"
+msgstr "داک"
+
+#: customizer/extend-customizer/class-royal-shop-wp-customize-section.php:50
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr "سفارشی کردن &#9656; %s"
+
+#: customizer/extend-customizer/class-royal-shop-wp-customize-section.php:52
+msgid "Customizing"
+msgstr "سفارشی کردن"
+
+#: customizer/register-panels-and-sections.php:10
+msgid "WordPress Default"
+msgstr "پیشفرض وردپرس"
+
+#: customizer/register-panels-and-sections.php:22
+#: customizer/section-ordering.php:63 customizer/section-ordering.php:140
+#: customizer/section/color/global-color.php:107
+#: customizer/section/layout/blog/blog.php:91
+#: customizer/section/layout/footer/above-footer.php:413
+#: customizer/section/layout/footer/bottom-footer.php:373
+#: customizer/section/layout/footer/widget-footer.php:81
+#: customizer/section/layout/header/above-header.php:461
+#: customizer/section/layout/header/loader.php:55
+#: customizer/section/layout/header/main-header.php:170
+#: customizer/section/layout/header/set-identity.php:99
+#: customizer/section/layout/social-icon/social-icon.php:134
+#: customizer/section/woo/cart.php:80 customizer/section/woo/product.php:59
+#: customizer/section/woo/shop.php:48
+#: customizer/section/woo/single-product.php:184
+msgid "Feel difficulty, Explore our"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:29
+msgid "Background"
+msgstr "پس زمینه"
+
+#: customizer/register-panels-and-sections.php:40
+msgid "Layout Settings"
+msgstr "تنظیمات لایه بندی"
+
+#: customizer/register-panels-and-sections.php:45
+#: customizer/register-panels-and-sections.php:292
+msgid "Header"
+msgstr "هدر"
+
+#: customizer/register-panels-and-sections.php:53
+msgid "Top Header"
+msgstr "هدر بالا"
+
+#: customizer/register-panels-and-sections.php:61
+#: customizer/register-panels-and-sections.php:307
+msgid "Main Header"
+msgstr "هدر اصلی"
+
+#: customizer/register-panels-and-sections.php:69
+msgid "Exclude Category"
+msgstr "دسته بندی را حذف کنید"
+
+#: customizer/register-panels-and-sections.php:76
+msgid "Post Page"
+msgstr "برگه پست"
+
+#: customizer/register-panels-and-sections.php:83
+#: customizer/register-panels-and-sections.php:369
+msgid "Footer"
+msgstr "فوتر"
+
+#: customizer/register-panels-and-sections.php:90
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: customizer/register-panels-and-sections.php:97
+msgid "Back To Top"
+msgstr "بازگشت به بالا"
+
+#: customizer/register-panels-and-sections.php:104
+msgid "Top Footer"
+msgstr "بالا فوتر"
+
+#: customizer/register-panels-and-sections.php:112
+msgid "Main Footer"
+msgstr "پایین فوتر"
+
+#: customizer/register-panels-and-sections.php:120
+msgid "Copyright"
+msgstr "حق چاپ (کپی رایت)"
+
+#: customizer/register-panels-and-sections.php:131
+msgid "Preloader"
+msgstr "متن نگه دارنده"
+
+#: customizer/register-panels-and-sections.php:139
+msgid "Social Icon"
+msgstr "آیکون شبکه اجتماعی"
+
+#: customizer/register-panels-and-sections.php:149
+msgid "HomePage Sections"
+msgstr "بخش های صفحه اصلی"
+
+#: customizer/register-panels-and-sections.php:153
+#: customizer/register-panels-and-sections.php:396
+msgid "Main Slider"
+msgstr "اسلایدر اصلی"
+
+#: customizer/register-panels-and-sections.php:160
+#: customizer/register-panels-and-sections.php:420
+msgid "Filter Product Slider"
+msgstr "محصول اسلایدر را فیلتر کنید"
+
+#: customizer/register-panels-and-sections.php:167
+#: customizer/register-panels-and-sections.php:412
+msgid "Product Slider"
+msgstr "محصول اسلایدر"
+
+#: customizer/register-panels-and-sections.php:174
+#: customizer/register-panels-and-sections.php:404
+msgid "Product Categories Section"
+msgstr "بخش دسته بندی محصول"
+
+#: customizer/register-panels-and-sections.php:181
+#: customizer/register-panels-and-sections.php:428
+msgid "ListView Slider"
+msgstr "مشاهده فهرست اسلایدر"
+
+#: customizer/register-panels-and-sections.php:188
+#: customizer/register-panels-and-sections.php:476
+msgid "Highlighted Product Filter"
+msgstr "فیلتر محصول برجسته"
+
+#: customizer/register-panels-and-sections.php:194
+#: customizer/register-panels-and-sections.php:436
+msgid "ListView With Filter"
+msgstr "مشاهده لیست با فیلتر"
+
+#: customizer/register-panels-and-sections.php:201
+#: customizer/register-panels-and-sections.php:452
+msgid "Call To Action"
+msgstr "بخش تبلیغاتی"
+
+#: customizer/register-panels-and-sections.php:208
+#: customizer/register-panels-and-sections.php:444
+msgid "Ad Banner"
+msgstr "بنر تبلیغاتی"
+
+#: customizer/register-panels-and-sections.php:215
+#: customizer/register-panels-and-sections.php:460
+msgid "Brands"
+msgstr "برند ها"
+
+#: customizer/register-panels-and-sections.php:222
+#: customizer/register-panels-and-sections.php:468
+msgid "Services"
+msgstr "خدمات"
+
+#: customizer/register-panels-and-sections.php:229
+#: customizer/register-panels-and-sections.php:486
+msgid "First Blank Section"
+msgstr "بخش خالی اول"
+
+#: customizer/register-panels-and-sections.php:236
+#: customizer/register-panels-and-sections.php:494
+msgid "Second Blank Section"
+msgstr "بخش خالی دوم"
+
+#: customizer/register-panels-and-sections.php:243
+#: customizer/register-panels-and-sections.php:502
+msgid "Third Blank Section"
+msgstr "بخش خالی سوم"
+
+#: customizer/register-panels-and-sections.php:250
+#: customizer/register-panels-and-sections.php:510
+msgid "Fourth Blank Section"
+msgstr "بخش خالی چهارم"
+
+#: customizer/register-panels-and-sections.php:257
+#: customizer/register-panels-and-sections.php:518
+msgid "Top Blank Section"
+msgstr "بخش خالی بالا"
+
+#: customizer/register-panels-and-sections.php:264
+msgid "Vertical Banner Tabbed Carousel"
+msgstr "بخش چرخ فلک با بنر عمودی"
+
+#: customizer/register-panels-and-sections.php:272
+msgid "Section Ordering"
+msgstr "بخش بندی"
+
+#: customizer/register-panels-and-sections.php:282
+msgid "Color & Background Settings"
+msgstr "تنظیمات رنگ و پس زمینه"
+
+#: customizer/register-panels-and-sections.php:286
+msgid "Site Colors"
+msgstr "رنگ سایت"
+
+#: customizer/register-panels-and-sections.php:299
+msgid "Above Header"
+msgstr "بالای هدر"
+
+#: customizer/register-panels-and-sections.php:315
+msgid "Sticky Header"
+msgstr "هدر استیکی"
+
+#: customizer/register-panels-and-sections.php:324
+msgid "Mobile"
+msgstr "موبایل"
+
+#: customizer/register-panels-and-sections.php:332
+msgid "Off Canvas Sidebar"
+msgstr "سایدبار Off Canvas"
+
+#: customizer/register-panels-and-sections.php:341
+msgid "Category"
+msgstr "دسته بندی"
+
+#: customizer/register-panels-and-sections.php:351 functions.php:158
+msgid "Primary Sidebar"
+msgstr "سایدبار اصلی"
+
+#: customizer/register-panels-and-sections.php:360 functions.php:167
+msgid "Secondary Sidebar"
+msgstr "سایدبار ثانویه"
+
+#: customizer/register-panels-and-sections.php:379 functions.php:100
+msgid "Woocommerce"
+msgstr "ووکامرس"
+
+#: customizer/register-panels-and-sections.php:389
+msgid "Frontpage Sections"
+msgstr "بخش های صفحه اصلی"
+
+#: customizer/register-panels-and-sections.php:527
+msgid "Banner Tab Section"
+msgstr "بخش برگه های بنر"
+
+#: customizer/register-panels-and-sections.php:538
+msgid "Content Color"
+msgstr "رنگ محتوا"
+
+#: customizer/register-panels-and-sections.php:547
+msgid "Product Style"
+msgstr "استایل محصول"
+
+#: customizer/register-panels-and-sections.php:554
+msgid "Single Product"
+msgstr "تک محصول"
+
+#: customizer/register-panels-and-sections.php:561
+msgid "Cart Page"
+msgstr "صفحه سبد خرید"
+
+#: customizer/register-panels-and-sections.php:568
+msgid "Shop Page"
+msgstr "صفحه فروشگاه"
+
+#: customizer/register-panels-and-sections.php:579
+msgid "Inner Page Template "
+msgstr "الگوی صفحه داخلی "
+
+#: customizer/section-ordering.php:10
+msgid "Fixed Sidebar"
+msgstr "سایدبار متحرک"
+
+#: customizer/section-ordering.php:23
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#: customizer/section-ordering.php:27 customizer/section-ordering.php:45
+msgid "Both Sidebar"
+msgstr "هر دو سایدبار"
+
+#: customizer/section-ordering.php:28 customizer/section-ordering.php:46
+#: customizer/section-ordering.php:123
+msgid "No Sidebar"
+msgstr "بدون سایدبار"
+
+#: customizer/section-ordering.php:29 customizer/section-ordering.php:47
+msgid "Right Sidebar"
+msgstr "سایدبار کناری راست"
+
+#: customizer/section-ordering.php:30 customizer/section-ordering.php:48
+msgid "Left Sidebar"
+msgstr "سایدبار کناری چپ"
+
+#: customizer/section-ordering.php:41
+msgid "Inner Pages"
+msgstr "صفحات داخلی"
+
+#: customizer/section-ordering.php:74
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: customizer/section-ordering.php:89
+#: customizer/section/layout/header/loader.php:23
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: customizer/section-ordering.php:103
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: customizer/section-ordering.php:117
+msgid "Shop Page & Product Category Page"
+msgstr "صفحه خرید و صفحه دسته بندی محصولات"
+
+#: customizer/section-ordering.php:121
+msgid "Same as Internal Pages"
+msgstr "همان صفحات داخلی است"
+
+#: customizer/section-ordering.php:122
+msgid "Active Both Sidebar"
+msgstr "هر دو سایدبار فعال"
+
+#: customizer/section-ordering.php:124
+msgid "Disable Left Sidebar"
+msgstr "سایدبار چپ را غیرفعال کنید"
+
+#: customizer/section-ordering.php:125
+msgid "Disable Right Sidebar"
+msgstr "سایدبار راست را غیرفعال کنید"
+
+#: customizer/section/color/global-color.php:14
+msgid "Theme Color"
+msgstr "رنگ تم"
+
+#: customizer/section/color/global-color.php:29
+msgid "Link Color"
+msgstr "رنگ لینک"
+
+#: customizer/section/color/global-color.php:44
+msgid "Link Hover Color"
+msgstr "رنگ پیوند هاور"
+
+#: customizer/section/color/global-color.php:60
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: customizer/section/color/global-color.php:75
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: customizer/section/layout/blog/blog.php:14
+msgid "Blog Post Content"
+msgstr "محتوای پست وبلاگ"
+
+#: customizer/section/layout/blog/blog.php:18
+msgid "Full Content"
+msgstr "محتوا کامل"
+
+#: customizer/section/layout/blog/blog.php:19
+msgid "Excerpt Content"
+msgstr "محتوای منتخب"
+
+#: customizer/section/layout/blog/blog.php:20
+msgid "No Content"
+msgstr "محتوایی وجود ندارد"
+
+#: customizer/section/layout/blog/blog.php:34
+msgid "Excerpt Length"
+msgstr "طول چکیده"
+
+#: customizer/section/layout/blog/blog.php:54
+msgid "Read More Text"
+msgstr "متن ادامه مطلب را بخوانید"
+
+#: customizer/section/layout/blog/blog.php:70
+msgid "Post Pagination"
+msgstr "برگه صفحه بندی"
+
+#: customizer/section/layout/blog/blog.php:74
+#: customizer/section/woo/shop.php:16
+msgid "Numbered"
+msgstr "شماره دار"
+
+#: customizer/section/layout/blog/blog.php:75
+#: customizer/section/woo/shop.php:17
+msgid "Load More (PRO)"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:76
+#: customizer/section/woo/shop.php:18
+msgid "Infinite Scroll (PRO)"
+msgstr ""
+
+#: customizer/section/layout/footer/above-footer.php:17
+#: customizer/section/layout/footer/bottom-footer.php:16
+#: customizer/section/layout/footer/widget-footer.php:16
+#: customizer/section/layout/header/above-header.php:32
+msgid "Layout"
+msgstr "طرح بندی"
+
+#: customizer/section/layout/footer/above-footer.php:47
+#: customizer/section/layout/footer/bottom-footer.php:46
+#: customizer/section/layout/header/above-header.php:60
+msgid "Column 1"
+msgstr "ستون 1"
+
+#: customizer/section/layout/footer/above-footer.php:51
+#: customizer/section/layout/footer/above-footer.php:137
+#: customizer/section/layout/footer/above-footer.php:220
+#: customizer/section/layout/footer/bottom-footer.php:50
+#: customizer/section/layout/footer/bottom-footer.php:136
+#: customizer/section/layout/footer/bottom-footer.php:220
+#: customizer/section/layout/header/above-header.php:64
+#: customizer/section/layout/header/above-header.php:176
+#: customizer/section/layout/header/above-header.php:288
+#: customizer/section/woo/product.php:18
+msgid "None"
+msgstr "هیچکدام"
+
+#: customizer/section/layout/footer/above-footer.php:52
+#: customizer/section/layout/footer/above-footer.php:67
+#: customizer/section/layout/footer/above-footer.php:138
+#: customizer/section/layout/footer/above-footer.php:152
+#: customizer/section/layout/footer/above-footer.php:221
+#: customizer/section/layout/footer/above-footer.php:235
+#: customizer/section/layout/footer/bottom-footer.php:51
+#: customizer/section/layout/footer/bottom-footer.php:66
+#: customizer/section/layout/footer/bottom-footer.php:137
+#: customizer/section/layout/footer/bottom-footer.php:152
+#: customizer/section/layout/footer/bottom-footer.php:221
+#: customizer/section/layout/footer/bottom-footer.php:236
+#: customizer/section/layout/header/above-header.php:65
+#: customizer/section/layout/header/above-header.php:82
+#: customizer/section/layout/header/above-header.php:177
+#: customizer/section/layout/header/above-header.php:194
+#: customizer/section/layout/header/above-header.php:289
+#: customizer/section/layout/header/above-header.php:307
+msgid "Text"
+msgstr "متن"
+
+#: customizer/section/layout/footer/above-footer.php:53
+#: customizer/section/layout/footer/above-footer.php:139
+#: customizer/section/layout/footer/above-footer.php:222
+#: customizer/section/layout/footer/bottom-footer.php:52
+#: customizer/section/layout/footer/bottom-footer.php:138
+#: customizer/section/layout/footer/bottom-footer.php:222
+#: customizer/section/layout/header/above-header.php:66
+#: customizer/section/layout/header/above-header.php:178
+#: customizer/section/layout/header/above-header.php:290
+#: inc/header-function.php:284 inc/header-function.php:351
+#: inc/header-function.php:412 inc/header-function.php:504
+#: inc/header-function.php:606 inc/header-function.php:691
+#: inc/header-function.php:769 inc/header-function.php:1181
+#: inc/header-function.php:1207
+msgid "Menu"
+msgstr "فهرست"
+
+#: customizer/section/layout/footer/above-footer.php:54
+#: customizer/section/layout/footer/above-footer.php:140
+#: customizer/section/layout/footer/above-footer.php:223
+#: customizer/section/layout/footer/bottom-footer.php:53
+#: customizer/section/layout/footer/bottom-footer.php:140
+#: customizer/section/layout/footer/bottom-footer.php:224
+#: customizer/section/layout/header/above-header.php:67
+#: customizer/section/layout/header/above-header.php:179
+#: customizer/section/layout/header/above-header.php:291
+msgid "Widget"
+msgstr "ابزارک"
+
+#: customizer/section/layout/footer/above-footer.php:55
+#: customizer/section/layout/footer/above-footer.php:141
+#: customizer/section/layout/footer/above-footer.php:224
+#: customizer/section/layout/footer/bottom-footer.php:54
+#: customizer/section/layout/footer/bottom-footer.php:141
+#: customizer/section/layout/footer/bottom-footer.php:225
+#: customizer/section/layout/header/above-header.php:68
+#: customizer/section/layout/header/above-header.php:180
+#: customizer/section/layout/header/above-header.php:292
+msgid "Social Media"
+msgstr "رسانه شبکه های اجتماعی"
+
+#: customizer/section/layout/footer/above-footer.php:60
+#: customizer/section/layout/footer/above-footer.php:146
+#: customizer/section/layout/footer/above-footer.php:229
+#: customizer/section/layout/footer/bottom-footer.php:146
+#: customizer/section/layout/footer/bottom-footer.php:230
+#: customizer/section/layout/header/above-header.php:75
+#: customizer/section/layout/header/above-header.php:187
+#: customizer/section/layout/header/above-header.php:300
+#: inc/footer-function.php:273 inc/footer-function.php:307
+#: inc/footer-function.php:340 inc/footer-function.php:441
+#: inc/header-function.php:69 inc/header-function.php:129
+#: inc/header-function.php:191
+msgid "Add your content here"
+msgstr "محتوای خود را از اینجا اضافه کنید"
+
+#: customizer/section/layout/footer/above-footer.php:83
+#: customizer/section/layout/footer/above-footer.php:168
+#: customizer/section/layout/footer/above-footer.php:268
+#: customizer/section/layout/footer/bottom-footer.php:82
+#: customizer/section/layout/footer/bottom-footer.php:168
+#: customizer/section/layout/footer/bottom-footer.php:269
+#: customizer/section/layout/footer/widget-footer.php:64
+#: customizer/section/layout/header/above-header.php:98
+#: customizer/section/layout/header/above-header.php:227
+#: customizer/section/layout/header/above-header.php:356
+msgid "Go To Widget"
+msgstr "وارد ابزارک شوید"
+
+#: customizer/section/layout/footer/above-footer.php:100
+#: customizer/section/layout/footer/above-footer.php:185
+#: customizer/section/layout/footer/above-footer.php:285
+#: customizer/section/layout/footer/bottom-footer.php:99
+#: customizer/section/layout/footer/bottom-footer.php:185
+#: customizer/section/layout/footer/bottom-footer.php:286
+#: customizer/section/layout/header/above-header.php:115
+#: customizer/section/layout/header/above-header.php:210
+#: customizer/section/layout/header/above-header.php:340
+msgid "Go To Menu"
+msgstr "وارد منو شوید"
+
+#: customizer/section/layout/footer/above-footer.php:117
+#: customizer/section/layout/footer/above-footer.php:202
+#: customizer/section/layout/footer/above-footer.php:251
+#: customizer/section/layout/footer/bottom-footer.php:116
+#: customizer/section/layout/footer/bottom-footer.php:202
+#: customizer/section/layout/footer/bottom-footer.php:252
+#: customizer/section/layout/header/above-header.php:132
+#: customizer/section/layout/header/above-header.php:244
+#: customizer/section/layout/header/above-header.php:323
+msgid "Go To Social Media"
+msgstr "وارد رسانه های اجتماعی شوید"
+
+#: customizer/section/layout/footer/above-footer.php:133
+#: customizer/section/layout/footer/bottom-footer.php:132
+#: customizer/section/layout/header/above-header.php:172
+msgid "Column 2"
+msgstr "ستون 2"
+
+#: customizer/section/layout/footer/above-footer.php:216
+#: customizer/section/layout/footer/bottom-footer.php:216
+#: customizer/section/layout/header/above-header.php:284
+msgid "Column 3"
+msgstr "ستون 3"
+
+#: customizer/section/layout/footer/above-footer.php:305
+#: customizer/section/layout/footer/bottom-footer.php:306
+#: customizer/section/layout/header/above-header.php:400
+msgid "Height"
+msgstr "ارتفاع"
+
+#: customizer/section/layout/footer/above-footer.php:331
+#: customizer/section/layout/header/above-header.php:422
+msgid "Bottom Border"
+msgstr "حاشیه پایین"
+
+#: customizer/section/layout/footer/above-footer.php:358
+#: customizer/section/layout/footer/bottom-footer.php:332
+msgid "Top Border"
+msgstr "حاشیه بالا"
+
+#: customizer/section/layout/footer/above-footer.php:381
+msgid "Bottom Border Color"
+msgstr "رنگ حاشیه پایین"
+
+#: customizer/section/layout/footer/above-footer.php:396
+msgid "Top Border Color"
+msgstr "رنگ حاشیه بالا"
+
+#: customizer/section/layout/footer/bottom-footer.php:59
+msgid "Copyright | Royal Shop | Developed by ThemeHunk"
+msgstr "تمامی حقوق محفوظ است"
+
+#: customizer/section/layout/footer/bottom-footer.php:139
+#: customizer/section/layout/footer/bottom-footer.php:223 searchform.php:13
+msgid "Search"
+msgstr "جستجو"
+
+#: customizer/section/layout/footer/bottom-footer.php:355
+#: customizer/section/layout/header/above-header.php:445
+msgid "Border Color"
+msgstr "رنگ حاشیه"
+
+#: customizer/section/layout/header/above-header.php:15
+msgid "Disable in mobile"
+msgstr "غیرفعال کردن در تلفن همراه"
+
+#: customizer/section/layout/header/above-header.php:69
+#: customizer/section/layout/header/above-header.php:142
+#: customizer/section/layout/header/above-header.php:181
+#: customizer/section/layout/header/above-header.php:254
+#: customizer/section/layout/header/above-header.php:293
+#: customizer/section/layout/header/above-header.php:366
+msgid "Call To"
+msgstr "تماس با"
+
+#: customizer/section/layout/header/above-header.php:148
+#: customizer/section/layout/header/above-header.php:260
+#: customizer/section/layout/header/above-header.php:372
+msgid "Call To Text"
+msgstr "تماس با پیام"
+
+#: customizer/section/layout/header/above-header.php:160
+#: customizer/section/layout/header/above-header.php:272
+#: customizer/section/layout/header/above-header.php:384
+msgid "Call To Number"
+msgstr "با شماره تماس بگیرید"
+
+#: customizer/section/layout/header/loader.php:8
+msgid "Enable Loader"
+msgstr "پیش بارگذاری را فعال کنید"
+
+#: customizer/section/layout/header/loader.php:38
+msgid "Pre Loader Image"
+msgstr "تصویر پیش بارگذار"
+
+#: customizer/section/layout/header/loader.php:39
+msgid "(You can also use GIF image.)"
+msgstr "(همچنین می توانید از تصویر GIF استفاده کنید.)"
+
+#: customizer/section/layout/header/main-header.php:14
+msgid "Header Layout"
+msgstr "طرح بندی هدر"
+
+#: customizer/section/layout/header/main-header.php:43
+msgid "Menu Alignment"
+msgstr "ترازبندی فهرست"
+
+#: customizer/section/layout/header/main-header.php:47
+#: customizer/section/layout/header/main-header.php:65
+msgid "Left"
+msgstr "چپ"
+
+#: customizer/section/layout/header/main-header.php:48
+msgid "center"
+msgstr "مرکز"
+
+#: customizer/section/layout/header/main-header.php:49
+#: customizer/section/layout/header/main-header.php:66
+msgid "Right"
+msgstr "راست"
+
+#: customizer/section/layout/header/main-header.php:61
+msgid "Mobile Menu"
+msgstr "فهرست موبایل"
+
+#: customizer/section/layout/header/main-header.php:76
+msgid "Enable Header Shadow"
+msgstr "سایه هدر را فعال کنید"
+
+#: customizer/section/layout/header/main-header.php:90
+msgid "On / Off Sticky Header"
+msgstr "روشن / خاموش هدر استیکی"
+
+#: customizer/section/layout/header/main-header.php:103
+msgid "Sticky Header Effect"
+msgstr "افکت هدر استیکی"
+
+#: customizer/section/layout/header/main-header.php:107
+msgid "Effect One"
+msgstr "افکت اول"
+
+#: customizer/section/layout/header/main-header.php:108
+msgid "Effect Two (PRO)"
+msgstr "افکت دوم ( نسخه پرو )"
+
+#: customizer/section/layout/header/main-header.php:119
+msgid "Check to disable wishlist icon in mobile device"
+msgstr "علامت بزنید تا آیکون لیست علاقه مندی در دستگاه تلفن همراه غیرفعال شود"
+
+#: customizer/section/layout/header/main-header.php:131
+msgid "Check to disable account icon in mobile device"
+msgstr "آیکون حساب کاربری را در تلفن همراه غیرفعال کنید"
+
+#: customizer/section/layout/header/main-header.php:143
+msgid "Check to disable cart icon in mobile device"
+msgstr "آیکون سبد خرید را در تلفن همراه غیرفعال کنید"
+
+#: customizer/section/layout/header/set-identity.php:27
+msgid "Retina Logo"
+msgstr "لوگوی رتینا"
+
+#: customizer/section/layout/header/set-identity.php:40
+msgid "Display Site Title"
+msgstr "نمایش عنوان سایت"
+
+#: customizer/section/layout/header/set-identity.php:55
+msgid "Display Tagline"
+msgstr "نمایش تگ لاین"
+
+#: customizer/section/layout/header/set-identity.php:75
+msgid "Logo Width"
+msgstr "عرض لوگو"
+
+#: customizer/section/layout/social-icon/social-icon.php:8
+msgid "Show Original Color"
+msgstr "نمایش رنگ اصلی"
+
+#: customizer/section/layout/social-icon/social-icon.php:19
+msgid "Facebook URL"
+msgstr "آدرس اینترنتی فیسبوک"
+
+#: customizer/section/layout/social-icon/social-icon.php:32
+msgid "LinkedIn URL"
+msgstr "آدرس اینترنتی لینکدین"
+
+#: customizer/section/layout/social-icon/social-icon.php:44
+msgid "Pinterest URL"
+msgstr "آدرس اینترنتی پینترست"
+
+#: customizer/section/layout/social-icon/social-icon.php:57
+msgid "Twitter URL"
+msgstr "آدرس اینترنتی تویتر"
+
+#: customizer/section/layout/social-icon/social-icon.php:69
+msgid "Instagram URL"
+msgstr "آدرس اینترنتی اینستاگرام"
+
+#: customizer/section/layout/social-icon/social-icon.php:81
+msgid "Tumblr URL"
+msgstr "آدرس اینترنتی تامبلر"
+
+#: customizer/section/layout/social-icon/social-icon.php:93
+msgid "Youtube URL"
+msgstr "آدرس اینترنتی یوتیوب"
+
+#: customizer/section/layout/social-icon/social-icon.php:105
+msgid "Stumbleupon URL"
+msgstr "آدرس اینترنتی استانبلیفون"
+
+#: customizer/section/layout/social-icon/social-icon.php:117
+msgid "Dribble URL"
+msgstr "آدرس اینترنتی دریبل"
+
+#: customizer/section/woo/cart.php:33
+#: customizer/section/woo/single-product.php:54
+#: customizer/section/woo/single-product.php:136
+msgid "Number Of Column To Show"
+msgstr "تعداد ستون برای نمایش"
+
+#: customizer/section/woo/cart.php:55
+#: customizer/section/woo/single-product.php:76
+#: customizer/section/woo/single-product.php:160
+msgid "Number Of Product To Show"
+msgstr "تعداد محصول برای نمایش"
+
+#: customizer/section/woo/product.php:14
+msgid "Background Type"
+msgstr "نوع پس زمینه"
+
+#: customizer/section/woo/product.php:19
+msgid "Zoom"
+msgstr "زوم"
+
+#: customizer/section/woo/product.php:20
+msgid "Fade Swap (PRO)"
+msgstr "محو ( نسخه پرو )"
+
+#: customizer/section/woo/product.php:21
+msgid "Slide Swap (PRO)"
+msgstr "سایه ( نسخه پرو )"
+
+#: customizer/section/woo/product.php:32
+msgid "Enable Quick View."
+msgstr "نمایش سریع را فعال کنید."
+
+#: customizer/section/woo/product.php:39
+msgid "Sale!"
+msgstr "حراج!"
+
+#: customizer/section/woo/product.php:44
+msgid "Sale Badge Text"
+msgstr "متن حراج"
+
+#: customizer/section/woo/shop.php:12
+msgid "Shop Page Pagination"
+msgstr "صفحه بندی برگه خرید"
+
+#: customizer/section/woo/shop.php:31
+msgid "Load More Text"
+msgstr "متن بارگذاری بیشتر"
+
+#: customizer/section/woo/single-product.php:22
+msgid "Up Sell Product"
+msgstr "فروش محصول بالا"
+
+#: customizer/section/woo/single-product.php:38
+msgid "Display up sell product"
+msgstr "نمایش فروش بالا"
+
+#: customizer/section/woo/single-product.php:101
+msgid "Related Product"
+msgstr "محصولات مرتبط"
+
+#: customizer/section/woo/single-product.php:118
+msgid "Display Related product"
+msgstr "نمایش محصول مرتبط"
+
+#: functions.php:95
+msgid "Z Companion"
+msgstr ""
+
+#: functions.php:105
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr ""
+
+#: functions.php:110
+msgid "WPC Smart Compare for WooCommerce"
+msgstr ""
+
+#: functions.php:115
+msgid "Lead Form Builder"
+msgstr ""
+
+#: functions.php:120
+msgid "WP Popup Builder – Popup Forms & Newsletter"
+msgstr ""
+
+#: functions.php:129
+msgid "Megamenu plugin from Themehunk."
+msgstr ""
+
+#: functions.php:160
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در سایدبار اصلی ظاهر شوند."
+
+#: functions.php:169
+msgid "Add widgets here to appear in your secondary sidebar."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در سایدبار دوم ظاهر شوند."
+
+#: functions.php:176
+msgid "Above Header First Widget"
+msgstr "ابزارک اول بالای هدر"
+
+#: functions.php:178 functions.php:187 functions.php:196
+msgid "Add widgets here to appear in top header."
+msgstr "ابزارک ها را اینجا اضافه کنید تا دربالای هدر ظاهر شوند."
+
+#: functions.php:185
+msgid "Above Header Second Widget"
+msgstr "ابزارک دوم بالای هدر"
+
+#: functions.php:194
+msgid "Above Header Third Widget"
+msgstr "ابزارک سوم بالای هدر"
+
+#: functions.php:204
+msgid "Main Header Widget"
+msgstr "ابزارک اصلی هدر"
+
+#: functions.php:206
+msgid "Add widgets here to appear in main header."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در هدر اصلی نشان داده شوند."
+
+#: functions.php:213
+msgid "Footer Top First Widget"
+msgstr "اولین ابزارک در بالای فوتر"
+
+#: functions.php:215 functions.php:224 functions.php:233 functions.php:242
+#: functions.php:251 functions.php:260
+msgid "Add widgets here to appear in top footer."
+msgstr "ابزارک ها را در اینجا اضافه کنید تا در فوتر ظاهر شوند."
+
+#: functions.php:222
+msgid "Footer Top Second Widget"
+msgstr "دومین ابزارک در بالای فوتر"
+
+#: functions.php:231
+msgid "Footer Top Third Widget"
+msgstr "سومین ابزارک در بالای فوتر"
+
+#: functions.php:240
+msgid "Footer Below First Widget"
+msgstr "اولین ابزارک در زیر فوتر"
+
+#: functions.php:249
+msgid "Footer Below Second Widget"
+msgstr "دومین ابزارک در زیر فوتر"
+
+#: functions.php:258
+msgid "Footer Below Third Widget"
+msgstr "سومین ابزارک در زیر فوتر"
+
+#: functions.php:268
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr "ناحیه ابزارک فوتر%d"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "پرش از محتوا"
+
+#: inc/admin-function.php:38
+msgid "Header Above Menu"
+msgstr "منوی بالای هدر"
+
+#: inc/admin-function.php:39
+msgid "Main"
+msgstr "اصلی"
+
+#: inc/admin-function.php:40
+msgid "Sticky"
+msgstr "استیکی"
+
+#: inc/admin-function.php:41
+msgid "Footer Menu"
+msgstr "فهرست فوتر"
+
+#: inc/admin-function.php:365 inc/admin-function.php:373
+#: inc/admin-function.php:379 inc/admin-function.php:387
+#: inc/admin-function.php:393 inc/admin-function.php:399
+#: inc/admin-function.php:408 inc/admin-function.php:414
+#: inc/admin-function.php:420 inc/admin-function.php:426
+#: inc/admin-function.php:459 inc/admin-function.php:467
+#: inc/admin-function.php:473 inc/admin-function.php:481
+#: inc/admin-function.php:487 inc/admin-function.php:493
+#: inc/admin-function.php:501 inc/admin-function.php:507
+#: inc/admin-function.php:513 inc/admin-function.php:519
+#: inc/admin-function.php:555 inc/admin-function.php:563
+#: inc/admin-function.php:569 inc/admin-function.php:577
+#: inc/admin-function.php:583 inc/admin-function.php:589
+#: inc/admin-function.php:597 inc/admin-function.php:603
+#: inc/admin-function.php:609 inc/admin-function.php:615
+#: inc/admin-function.php:647 inc/admin-function.php:655
+#: inc/admin-function.php:661 inc/admin-function.php:669
+#: inc/admin-function.php:675 inc/admin-function.php:681
+#: inc/admin-function.php:689 inc/admin-function.php:695
+#: inc/admin-function.php:701 inc/admin-function.php:707
+#: inc/admin-function.php:738 inc/admin-function.php:746
+#: inc/admin-function.php:752 inc/admin-function.php:760
+#: inc/admin-function.php:766 inc/admin-function.php:772
+#: inc/footer-function.php:68 inc/footer-function.php:78
+#: inc/footer-function.php:83 inc/footer-function.php:94
+#: inc/footer-function.php:99 inc/footer-function.php:104
+#: inc/footer-function.php:118 inc/footer-function.php:123
+#: inc/footer-function.php:128 inc/footer-function.php:137
+#: inc/footer-function.php:152 inc/footer-function.php:157
+#: inc/footer-function.php:162 inc/footer-function.php:176
+#: inc/footer-function.php:181 inc/footer-function.php:186
+#: inc/footer-function.php:198 inc/footer-function.php:203
+#: inc/footer-function.php:211 inc/footer-function.php:216
+#: inc/footer-function.php:288 inc/footer-function.php:321
+#: inc/footer-function.php:354 inc/footer-function.php:388
+#: inc/footer-function.php:422 inc/footer-function.php:456
+#: inc/header-function.php:99 inc/header-function.php:160
+#: inc/header-function.php:222
+msgid "Add Widget"
+msgstr "ابزارک اضافه کنید"
+
+#: inc/admin-function.php:814
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/admin-function.php:821
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: inc/blog-function.php:88
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: inc/footer-function.php:281 inc/footer-function.php:314
+#: inc/footer-function.php:347 inc/footer-function.php:380
+#: inc/footer-function.php:414 inc/footer-function.php:448
+msgid "Assign footer menu"
+msgstr "منوی فوتر اختصاص دهید"
+
+#: inc/header-function.php:92 inc/header-function.php:152
+#: inc/header-function.php:214
+msgid "Assign Above header menu"
+msgstr "اختصاص دادن بالای منو هدر"
+
+#: inc/header-function.php:269 inc/header-function.php:334
+#: inc/header-function.php:397 inc/header-function.php:1210
+#: sidebar-primary.php:23
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: inc/header-function.php:924
+msgctxt "placeholder"
+msgid "Search for Product"
+msgstr "جستجوی محصول"
+
+#: inc/header-function.php:924
+msgctxt "label"
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: inc/header-function.php:933
+msgid "All Category"
+msgstr "تمامی دسته بندی ها"
+
+#: inc/header-function.php:938
+msgctxt "submit button"
+msgid "Submit"
+msgstr "ارسال"
+
+#: inc/header-function.php:958 inc/header-function.php:963
+msgid "My Favourite"
+msgstr "مورد علاقه من"
+
+#: inc/header-function.php:958 inc/header-function.php:964
+#: inc/header-function.php:1172 inc/header-function.php:1175
+msgid "Wishlist"
+msgstr "لیست علاقه مندی ها"
+
+#: inc/header-function.php:992 inc/header-function.php:1000
+msgid "MY ACCOUNT"
+msgstr "حساب کاربری من"
+
+#: inc/header-function.php:995 inc/header-function.php:1003
+msgid "LOGIN / REGISTER"
+msgstr "ورود / ثبت نام"
+
+#: inc/header-function.php:1170 lib/breadcrumbs/breadcrumbs.php:221
+msgid "Home"
+msgstr "خانه"
+
+#: inc/header-function.php:1184
+msgid "Account"
+msgstr "حساب کاربری"
+
+#: inc/header-function.php:1188
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: inc/woocommerce/quick-view/quick-view-product-image.php:52
+msgid "Placeholder"
+msgstr "محل نگهدارنده"
+
+#: inc/woocommerce/woo-core.php:90
+msgid "WooCommerce Sidebar"
+msgstr "سایدبار ووکامرس"
+
+#: inc/woocommerce/woo-core.php:92
+msgid "Add widgets here to appear in your WooCommerce Sidebar."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در سایدبار ووکامرس ظاهر شوند."
+
+#: inc/woocommerce/woo-core.php:242
+msgid "No more products to show."
+msgstr "محصولی برای نمایش وجود ندارد."
+
+#: inc/woocommerce/woo-core.php:323
+msgid "Quick view"
+msgstr "مشاهده سریع"
+
+#: inc/woocommerce/woo-core.php:473
+msgid "Grid View"
+msgstr "نمایش شبکه"
+
+#: inc/woocommerce/woo-core.php:475
+msgid "List View"
+msgstr "نمایش لیستی"
+
+#: inc/woocommerce/woo-core.php:543 inc/woocommerce/woo-core.php:545
+msgid "Load More"
+msgstr "ادامه مطلب"
+
+#: inc/woocommerce/woo-function.php:28 inc/woocommerce/woo-function.php:77
+msgid "View your shopping cart"
+msgstr "نمایش سبد خرید من"
+
+#: inc/woocommerce/woo-function.php:30 inc/woocommerce/woo-function.php:79
+#, php-format
+msgid "<span class=\"count-item\">%d</span>"
+msgid_plural "<span class=\"count-item\">%d</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/woo-function.php:49
+msgid "close"
+msgstr "بستن"
+
+#: inc/woocommerce/woo-function.php:56
+msgid "Return to shop"
+msgstr "بازگشت به فروشگاه"
+
+#: inc/woocommerce/woo-function.php:313
+msgid "Hello , "
+msgstr "سلام , "
+
+#: inc/woocommerce/woo-function.php:313 inc/woocommerce/woo-function.php:315
+msgid "My account"
+msgstr "حساب کاربری من"
+
+#: inc/woocommerce/woo-function.php:315
+msgid "Login / Signup"
+msgstr "ورود / ثبت نام"
+
+#: inc/woocommerce/woo-function.php:361 inc/woocommerce/woo-function.php:436
+msgid "No categories"
+msgstr "دسته بندی وجود ندارد"
+
+#: inc/woocommerce/woocommerce-ajax.php:26
+#, php-format
+msgid "<span class=\"count-item\">%d </span>"
+msgid_plural "<span class=\"count-item\">%d</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/breadcrumbs/breadcrumbs.php:220
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "برد کرامب ها"
+
+#: lib/breadcrumbs/breadcrumbs.php:222
+msgid "404 Not Found"
+msgstr "404 - پیدا نشد"
+
+#: lib/breadcrumbs/breadcrumbs.php:223
+msgid "Archives"
+msgstr "آرشیو ها"
+
+#: lib/breadcrumbs/breadcrumbs.php:225
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "نتایج جستجو برای &#8220;%s&#8221;"
+
+#: lib/breadcrumbs/breadcrumbs.php:227
+#, php-format
+msgid "Page %s"
+msgstr "برگه  %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:229
+#, php-format
+msgid "Minute %s"
+msgstr "%s دقیقه"
+
+#: lib/breadcrumbs/breadcrumbs.php:231
+#, php-format
+msgid "Week %s"
+msgstr "%s هفته"
+
+#: lib/breadcrumbs/breadcrumbs.php:683
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: lib/breadcrumbs/breadcrumbs.php:700
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumbs/breadcrumbs.php:717
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: lib/breadcrumbs/breadcrumbs.php:733 lib/breadcrumbs/breadcrumbs.php:762
+#: lib/breadcrumbs/breadcrumbs.php:789 lib/breadcrumbs/breadcrumbs.php:816
+#: lib/breadcrumbs/breadcrumbs.php:1151
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:734 lib/breadcrumbs/breadcrumbs.php:790
+#: lib/breadcrumbs/breadcrumbs.php:1155
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:735 lib/breadcrumbs/breadcrumbs.php:1159
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:763
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:75
+msgid "Royal Shop Options"
+msgstr "گزینه های قالب"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:76
+#: lib/theme-option/view-general.php:15
+msgid "Royal Shop"
+msgstr "رویال شاپ"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:117
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:152
+msgid "Activating Importer Plugin "
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:154
+#: lib/theme-option/class-royal-shop-admin-settings.php:277
+msgid "See Library"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:257
+msgid "Import Demo Site"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:266
+#, php-format
+msgid ""
+"Install and Activate recommended plugins given above and Import the whole "
+"demo data of %1$s in just one click. You can further customize the whole "
+"site."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:299
+msgid "Learn More"
+msgstr "ادامه مطلب"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:305
+#, php-format
+msgid ""
+"Our WordPress Theme is well Documented, you can go with our Documentation "
+"and learn to customize %1$s."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:312
+msgid "Visit Us"
+msgstr "ما را ملاقات کنید"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:336
+msgid "Join Community"
+msgstr "به انجمن بپیوندید"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:346
+msgid ""
+"Join the community of friendly ThemeHunk users. Get connected, share "
+"opinion, ask questions and help each other !"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:352
+msgid "Join us on Facebook"
+msgstr "در فیس بوک به ما بپیوندید"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:374
+msgid "Customer Support"
+msgstr "پشتیبانی مشتری"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:380
+msgid ""
+"Our Products are completely User-Friendly but Still you feel any Difficulty "
+"while Using it. Feel Free to Contact us on our Support Forum. Our Excellent "
+"Team will be happy to assist you with any theme related questions."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:388
+msgid "Submit a Ticket"
+msgstr "ارسال بلیط"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:410
+msgid "Get More Options with Royal Shop!"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:426
+msgid ""
+"You'll get more advanced features and functionalities with Royal Shop pro. "
+"Switch to pro version and enjoy creating online store."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:433
+msgid "Go with Royal Shop Pro"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:479
+#: lib/theme-option/class-royal-shop-admin-settings.php:586
+msgid "Plugin Activated"
+msgstr "پلاگین فعال شد"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:485
+#: lib/theme-option/class-royal-shop-admin-settings.php:592
+msgid "Install Now"
+msgstr "هم‌اکنون نصب کن"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:507
+#: lib/theme-option/class-royal-shop-admin-settings.php:614
+msgid "Activate Now"
+msgstr "هم اکنون فعال نمایید"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:683
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "گزینه های استفاده آسان ، کاملاً قابل تنظیم ، منحصر به فرد"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:734
+msgid "No plugin specified"
+msgstr "هیچ افزونه ای مشخص نشده است"
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:764
+msgid "Plugin Successfully Activated"
+msgstr "پلاگین با موفقیت فعال شد"
+
+#: lib/theme-option/theme-option-function.php:52
+#: lib/theme-option/theme-option-function.php:55
+#, php-format
+msgid "Thank you for Installing %1$s - Version %2$s"
+msgstr "از این که %1$s را نصب کردید متشکریم - نسخه%2$s"
+
+#: lib/theme-option/theme-option-function.php:62
+#: lib/theme-option/theme-option-function.php:66
+#, php-format
+msgid "Visit %1$s options page to take full advantage of theme."
+msgstr "برای استفاده کامل از طرح زمینه ، از%1$s برگه گزینه ها دیدن کنید."
+
+#: lib/theme-option/theme-option-function.php:76
+#: lib/theme-option/theme-option-function.php:79
+#, php-format
+msgid "Get started with %s"
+msgstr "کار با %s را شروع کنید"
+
+#: lib/theme-option/view-general.php:17
+msgid "Recommend Plugins"
+msgstr "توصیه افزونه ها"
+
+#: lib/theme-option/view-general.php:18
+msgid "Useful Plugins"
+msgstr "افزونه های مفید"
+
+#: searchform.php:12
+msgid "search.."
+msgstr "جستوجو..."
+
+#: template-parts/author-bio.php:18
+msgid "Written by"
+msgstr "نوشته شده توسط"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده اید برای انتشار اولین پست؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"با عرض پوزش، اما هیچ چیزی مطابق با جستجوی شما یافت نشد. لطفا با گزینش برخی "
+"از کلمات کلیدی، دوباره جستجو کنید."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"بنظر می رسد نمی توانیم چیزی که دنبال آن هستید را بیابیم. ممکن است جستجو در "
+"سایت به شما کمک کند."
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "برگه ها:"
+
+#: template-parts/content-page.php:29
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-single.php:35
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "ادامه را بخوانید<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single.php:59
+msgid "Tag : "
+msgstr "تگ : "
